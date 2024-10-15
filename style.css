@@ -98,6 +98,7 @@ svg {
 }
 .search-bar .row {
   flex-direction: column;
+  width: 108%;
 }
 .messageBox {
   display: flex;
@@ -113,7 +114,6 @@ svg {
   padding-right: 5px;
 }
 #messageInput {
-  flex: 1;
   padding: 10px;
   font-size: 16px;
   outline: none;
@@ -121,6 +121,7 @@ svg {
   font-family: "Poppins", sans-serif;
   border-radius: 25px;
   color: #5e5e5e;
+  width: 100%;
 }
 #messageInput::placeholder {
   color: #999;
