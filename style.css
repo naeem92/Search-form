@@ -98,7 +98,6 @@ svg {
 }
 .search-bar .row {
   flex-direction: column;
-  width: 100%;
 }
 .messageBox {
   display: flex;
